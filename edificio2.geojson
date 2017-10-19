@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "altura": 50
+        "altura": 50,
+		"propietario": 'Diego-Juan',
+		"cedula_catastral": 321465321
       },
       "geometry": {
         "type": "Polygon",
@@ -39,7 +41,9 @@
     {
       "type": "Feature",
       "properties": {
-        "altura": 21
+        "altura": 21,
+		"propietario": 'Diego-Juan',
+		"cedula_catastral": 321465321
       },
       "geometry": {
         "type": "Polygon",
@@ -74,7 +78,9 @@
     {
       "type": "Feature",
       "properties": {
-        "altura": 6
+        "altura": 6,
+		"propietario": 'Diego-Juan',
+		"cedula_catastral": 321465321
       },
       "geometry": {
         "type": "Polygon",
@@ -109,7 +115,9 @@
     {
       "type": "Feature",
       "properties": {
-        "altura": 12
+        "altura": 12,
+		"propietario": 'Diego-Juan',
+		"cedula_catastral": 321465321
       },
       "geometry": {
         "type": "Polygon",
@@ -168,7 +176,9 @@
     {
       "type": "Feature",
       "properties": {
-        "altura": 8
+        "altura": 8,
+		"propietario": 'Diego-Juan',
+		"cedula_catastral": 321465321
       },
       "geometry": {
         "type": "Polygon",
@@ -231,7 +241,9 @@
     {
       "type": "Feature",
       "properties": {
-        "altura": 3
+        "altura": 3,
+		"propietario": 'Diego-Juan',
+		"cedula_catastral": 321465321
       },
       "geometry": {
         "type": "Polygon",
@@ -282,7 +294,9 @@
     {
       "type": "Feature",
       "properties": {
-        "altura": 7
+        "altura": 7,
+		"propietario": 'Diego-Juan',
+		"cedula_catastral": 321465321
       },
       "geometry": {
         "type": "Polygon",
@@ -341,7 +355,9 @@
     {
       "type": "Feature",
       "properties": {
-        "altura": 3
+        "altura": 3,
+		"propietario": 'Diego-Juan',
+		"cedula_catastral": 321465321
       },
       "geometry": {
         "type": "Polygon",
@@ -376,7 +392,9 @@
     {
       "type": "Feature",
       "properties": {
-        "altura": 9
+        "altura": 9,
+		"propietario": 'Diego-Juan',
+		"cedula_catastral": 321465321
       },
       "geometry": {
         "type": "Polygon",
@@ -411,7 +429,9 @@
     {
       "type": "Feature",
       "properties": {
-        "altura": 12
+        "altura": 12,
+		"propietario": 'Diego-Juan',
+		"cedula_catastral": 321465321
       },
       "geometry": {
         "type": "Polygon",
